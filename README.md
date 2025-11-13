@@ -1,4 +1,4 @@
-# PyTorch CNN for MNIST Classification (MPS Optimized)
+# PyTorch CNN for MNIST Classification
 
 This repository contains the complete implementation of a simple Convolutional Neural Network (CNN) built from scratch in PyTorch to classify handwritten digits from the MNIST dataset.
 
